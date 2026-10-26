@@ -26,7 +26,7 @@ Matric No.: A24AI0028
 
 | ID | Requirement |
 |---|---|
-| FR1 | The system shall identify potentially flood-affected roads and buildings from uploaded satellite imagery. |
+| FR1 | The system shall identify potentially flood-affected roads and buildings from satellite imagery. |
 | FR2 | The system shall display preliminary inspection priorities for identified infrastructure based on defined assessment criteria |
 | FR3 | The system shall provide visual explanations of AI -generated predictions to help users interpret why infrastructure was classify as potentially flood-affected. |
 | FR4 | The system shall not present AI-generated infrastructure assessments as verified structural damage findigns |
