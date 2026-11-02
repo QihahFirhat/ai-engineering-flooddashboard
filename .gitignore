@@ -1,0 +1,7 @@
+# SpaceNet 8 raw dataset
+data/raw/
+
+# Python and Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
