@@ -50,6 +50,7 @@ Traditional disaster assessments often require manual field inspections, which c
 | Week | Focus | Deliverable | Status |
 |------|-------|-------------|--------|
 | W1 | System map + project scope | README + docs | ✅ |
+| W2 | Project architecture | Architecture map | ✅ |
 
 ## References
 
