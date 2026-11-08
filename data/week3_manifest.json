@@ -1,0 +1,206 @@
+{
+  "pipeline_version": "week3-v1",
+  "generated_at_utc": "2026-11-08T19:48:17.093757+00:00",
+  "records": [
+    {
+      "source_file": "data\\raw\\spacenet8\\PRE-event\\10500500C4DD7000_0_41_59.tif",
+      "source_sha256": "17eede22b841dc0f0e61fd0ce4bc9d9c940cf5d80b4f524ddc6158c9acbf8c16",
+      "prepared_file": "data\\processed\\images\\PRE-event\\10500500C4DD7000_0_41_59.tif",
+      "prepared_sha256": "3129213c1bfd2213a6116c6f4cc883029e87634fdb14ede23d281f847a6a1401",
+      "processing": "Lossless LZW GeoTIFF compression; original spatial grid preserved",
+      "image_role": "pre-event",
+      "annotation_file": "data\\raw\\spacenet8\\annotations\\0_41_59.geojson",
+      "annotation_sha256": "a27d29217366973e87c07b975f36d22f3ab2916446495fed493e8305673195d3",
+      "width": 1300,
+      "height": 1300,
+      "bands": 3,
+      "crs": "EPSG:4326",
+      "compression": "Compression.lzw",
+      "validation": {
+        "spatial_match": true,
+        "pixels_match": true,
+        "masks_match": true
+      }
+    },
+    {
+      "source_file": "data\\raw\\spacenet8\\POST-event\\10500500E6DD3C00_0_41_59.tif",
+      "source_sha256": "eb97355275d2001694beb86c7906da1c2656e491c12b10a4da9a459e74320c17",
+      "prepared_file": "data\\processed\\images\\POST-event\\10500500E6DD3C00_0_41_59.tif",
+      "prepared_sha256": "25c439e8ba4938abe02a7c0ab0a12412309bfef57ec56383f132832279fb4914",
+      "processing": "Lossless LZW GeoTIFF compression; original spatial grid preserved",
+      "image_role": "post-event-1",
+      "annotation_file": "data\\raw\\spacenet8\\annotations\\0_41_59.geojson",
+      "annotation_sha256": "a27d29217366973e87c07b975f36d22f3ab2916446495fed493e8305673195d3",
+      "width": 786,
+      "height": 786,
+      "bands": 3,
+      "crs": "EPSG:4326",
+      "compression": "Compression.lzw",
+      "validation": {
+        "spatial_match": true,
+        "pixels_match": true,
+        "masks_match": true
+      }
+    },
+    {
+      "source_file": "data\\raw\\spacenet8\\PRE-event\\10500500C4DD7000_0_45_64.tif",
+      "source_sha256": "05b097231a8b7d74bd130eb6b0b35931befee3772f20a08ab53c0c3aeac933dd",
+      "prepared_file": "data\\processed\\images\\PRE-event\\10500500C4DD7000_0_45_64.tif",
+      "prepared_sha256": "da6a4bd854aa2cfa02134aaa3b975cb48abeeeef314712fcc96c16b099d5cea2",
+      "processing": "Lossless LZW GeoTIFF compression; original spatial grid preserved",
+      "image_role": "pre-event",
+      "annotation_file": "data\\raw\\spacenet8\\annotations\\0_45_64.geojson",
+      "annotation_sha256": "938896d6226c4dcab655eb8af5e2661ec9d79a7373511b9ec0e8148165e14914",
+      "width": 1300,
+      "height": 1300,
+      "bands": 3,
+      "crs": "EPSG:4326",
+      "compression": "Compression.lzw",
+      "validation": {
+        "spatial_match": true,
+        "pixels_match": true,
+        "masks_match": true
+      }
+    },
+    {
+      "source_file": "data\\raw\\spacenet8\\POST-event\\10500500E6DD3C00_0_45_64.tif",
+      "source_sha256": "25427bf47c5e2c0ddc53988db9df9d0a5b167094179daf22799c025032e227b0",
+      "prepared_file": "data\\processed\\images\\POST-event\\10500500E6DD3C00_0_45_64.tif",
+      "prepared_sha256": "b223d1048378712fb9dd0da28f868f0c3e5302354000cf184827ce24a9d7ce3e",
+      "processing": "Lossless LZW GeoTIFF compression; original spatial grid preserved",
+      "image_role": "post-event-1",
+      "annotation_file": "data\\raw\\spacenet8\\annotations\\0_45_64.geojson",
+      "annotation_sha256": "938896d6226c4dcab655eb8af5e2661ec9d79a7373511b9ec0e8148165e14914",
+      "width": 786,
+      "height": 785,
+      "bands": 3,
+      "crs": "EPSG:4326",
+      "compression": "Compression.lzw",
+      "validation": {
+        "spatial_match": true,
+        "pixels_match": true,
+        "masks_match": true
+      }
+    },
+    {
+      "source_file": "data\\raw\\spacenet8\\PRE-event\\10500500C4DD7000_0_32_59.tif",
+      "source_sha256": "2c96900f9fbe2a2593b329eac0839eb3e4f3f0ea53e1a78850a106afc6b12e21",
+      "prepared_file": "data\\processed\\images\\PRE-event\\10500500C4DD7000_0_32_59.tif",
+      "prepared_sha256": "708ce29f0833e4dd9024fd4b6b7500299604ca0b2e5735357b59031aaa82ffb0",
+      "processing": "Lossless LZW GeoTIFF compression; original spatial grid preserved",
+      "image_role": "pre-event",
+      "annotation_file": "data\\raw\\spacenet8\\annotations\\0_32_59.geojson",
+      "annotation_sha256": "70645547feba3858a01727261b1a0cc473adbce221ccce049048f77c162b282a",
+      "width": 1300,
+      "height": 1300,
+      "bands": 3,
+      "crs": "EPSG:4326",
+      "compression": "Compression.lzw",
+      "validation": {
+        "spatial_match": true,
+        "pixels_match": true,
+        "masks_match": true
+      }
+    },
+    {
+      "source_file": "data\\raw\\spacenet8\\POST-event\\10500500E6DD3C00_0_32_59.tif",
+      "source_sha256": "2421e087c576ed007a23ff5e27b7c0bac3e459f06b8c265e85b5983379a41aa2",
+      "prepared_file": "data\\processed\\images\\POST-event\\10500500E6DD3C00_0_32_59.tif",
+      "prepared_sha256": "ca2d6dd7b4e4a3985700edf9feefced2114a72d7b73dac885b005bda1b5e4df9",
+      "processing": "Lossless LZW GeoTIFF compression; original spatial grid preserved",
+      "image_role": "post-event-1",
+      "annotation_file": "data\\raw\\spacenet8\\annotations\\0_32_59.geojson",
+      "annotation_sha256": "70645547feba3858a01727261b1a0cc473adbce221ccce049048f77c162b282a",
+      "width": 785,
+      "height": 786,
+      "bands": 3,
+      "crs": "EPSG:4326",
+      "compression": "Compression.lzw",
+      "validation": {
+        "spatial_match": true,
+        "pixels_match": true,
+        "masks_match": true
+      }
+    },
+    {
+      "source_file": "data\\raw\\spacenet8\\PRE-event\\10500500C4DD7000_0_38_61.tif",
+      "source_sha256": "c96f5b819f9ec57671ea90a8d1a4436e1192a8e25cb33a40dac17a5086181d7d",
+      "prepared_file": "data\\processed\\images\\PRE-event\\10500500C4DD7000_0_38_61.tif",
+      "prepared_sha256": "949f61d9a4cda3c2ee28dfeaba88b8eb8aa546717d1100b286941eabe6813fc0",
+      "processing": "Lossless LZW GeoTIFF compression; original spatial grid preserved",
+      "image_role": "pre-event",
+      "annotation_file": "data\\raw\\spacenet8\\annotations\\0_38_61.geojson",
+      "annotation_sha256": "b6c81bb7ead658dc7a492fd4607f1a401d3312d1653000d83fc5a597d684e3a0",
+      "width": 1300,
+      "height": 1300,
+      "bands": 3,
+      "crs": "EPSG:4326",
+      "compression": "Compression.lzw",
+      "validation": {
+        "spatial_match": true,
+        "pixels_match": true,
+        "masks_match": true
+      }
+    },
+    {
+      "source_file": "data\\raw\\spacenet8\\POST-event\\10500500E6DD3C00_0_38_61.tif",
+      "source_sha256": "b01551bd44dc91c9eef05876740fe115497a840c5272f5726681bbccee3430a9",
+      "prepared_file": "data\\processed\\images\\POST-event\\10500500E6DD3C00_0_38_61.tif",
+      "prepared_sha256": "b8bdc56cb87a8b402f3f9fbde7b378f8b4084e1554418127d2123971f5c8b7b0",
+      "processing": "Lossless LZW GeoTIFF compression; original spatial grid preserved",
+      "image_role": "post-event-1",
+      "annotation_file": "data\\raw\\spacenet8\\annotations\\0_38_61.geojson",
+      "annotation_sha256": "b6c81bb7ead658dc7a492fd4607f1a401d3312d1653000d83fc5a597d684e3a0",
+      "width": 785,
+      "height": 785,
+      "bands": 3,
+      "crs": "EPSG:4326",
+      "compression": "Compression.lzw",
+      "validation": {
+        "spatial_match": true,
+        "pixels_match": true,
+        "masks_match": true
+      }
+    },
+    {
+      "source_file": "data\\raw\\spacenet8\\PRE-event\\10500500C4DD7000_0_36_60.tif",
+      "source_sha256": "bc4b75b7d3611318b704fe7f32cd6261b873242c2d35581a4b36e81bb8e66a86",
+      "prepared_file": "data\\processed\\images\\PRE-event\\10500500C4DD7000_0_36_60.tif",
+      "prepared_sha256": "ed57e4bcf089953ac9c8b00356cd51c13a392820cc6843df5b1c3a1e802c08af",
+      "processing": "Lossless LZW GeoTIFF compression; original spatial grid preserved",
+      "image_role": "pre-event",
+      "annotation_file": "data\\raw\\spacenet8\\annotations\\0_36_60.geojson",
+      "annotation_sha256": "bdd0f7efbd7e9397cf8c79a534454a8287fe8a04fb4cea98615ecb8cb7910d8f",
+      "width": 1300,
+      "height": 1300,
+      "bands": 3,
+      "crs": "EPSG:4326",
+      "compression": "Compression.lzw",
+      "validation": {
+        "spatial_match": true,
+        "pixels_match": true,
+        "masks_match": true
+      }
+    },
+    {
+      "source_file": "data\\raw\\spacenet8\\POST-event\\10500500E6DD3C00_0_36_60.tif",
+      "source_sha256": "956bb1b17327cd316f3fed9ef21ad2c16692ad580449c552fd53b054b7e6713f",
+      "prepared_file": "data\\processed\\images\\POST-event\\10500500E6DD3C00_0_36_60.tif",
+      "prepared_sha256": "ffcd219413e76c0d03b230796b5e24d9eed63a1d3c2979778541b7de8b28344e",
+      "processing": "Lossless LZW GeoTIFF compression; original spatial grid preserved",
+      "image_role": "post-event-1",
+      "annotation_file": "data\\raw\\spacenet8\\annotations\\0_36_60.geojson",
+      "annotation_sha256": "bdd0f7efbd7e9397cf8c79a534454a8287fe8a04fb4cea98615ecb8cb7910d8f",
+      "width": 786,
+      "height": 786,
+      "bands": 3,
+      "crs": "EPSG:4326",
+      "compression": "Compression.lzw",
+      "validation": {
+        "spatial_match": true,
+        "pixels_match": true,
+        "masks_match": true
+      }
+    }
+  ]
+}
